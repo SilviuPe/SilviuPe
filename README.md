@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silviu</h1>
 <h3 align="center">A teenager passionate about Programming & Tech</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silviupe" alt="silviupe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silviupe&theme=onedark" alt="silviupe" /></a> </p>
 
 - 🔭 I’m currently working on **LiveAcademy**
 
