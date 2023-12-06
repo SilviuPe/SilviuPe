@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/petrea-silviu-836001231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silviu petrea" height="30" width="40" /></a>
 <a href="https://fb.com/silviu.petrea37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="silviu petrea" height="30" width="40" /></a>
 <a href="https://instagram.com/just.python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.python" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/pythonpro_?up_rollout=true" target="blank"<img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="pythonpro_" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
