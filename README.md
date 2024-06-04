@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silviupe&theme=onedark" alt="silviupe" /></a> </p>
 
-- 🌱 I’m currently learning **C++ & Game Development using OpenGL**
+- 🌱 I’m currently learning **CISCO & Networking**
 
 - 📫 How to reach me **silviupetrea60@gmail.com**
 
