@@ -3,7 +3,8 @@
 
 <h4 align="center">Currently working on <i>CallAPI</i> Platform</h4>
 
-- 📫 How to reach me **silviupetrea60@gmail.com**
+- 📫 How to reach me **admin@silvyu.dev**
+- 📫 Personal Website **<a href="https://silvyu.dev">silvyu.dev</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
